@@ -83,10 +83,10 @@ WSGI_APPLICATION = 'todo_site.wsgi.application'
 DATABASES = {
     'default': {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "d5jp7bsn17v8tv",
-        "USER": "juyukycactjpcp",
-        "PASSWORD": "08bb3a13a9886d2fc807651f6b74e9c1d44b45a552dc3c9c917f2f7459adf89b",
-        "HOST": "ec2-34-242-154-118.eu-west-1.compute.amazonaws.com",
+        "NAME": "d728m47qvk2lts",
+        "USER": "fwnfdazalrhgoq",
+        "PASSWORD": "9c993229ed61dad41de47edb53220c58ff608555be940ad4891b1719c7a5cce6",
+        "HOST": "ec2-54-234-13-16.compute-1.amazonaws.com",
         "PORT": "5432",
     }
 }
